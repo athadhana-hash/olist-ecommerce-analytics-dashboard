@@ -11,6 +11,11 @@ This project analyzes Olist e-commerce data to evaluate business performance, cu
 ## Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
 
+## Dashboard File
+
+The Power BI dashboard file (.pbix) can be accessed here:
+[Download Dashboard](https://drive.google.com/drive/folders/1GbQM3j1PzO_54XRSujah3ja-xqCTsZtb?usp=drive_link)
+
 ## Data Processing
 Data preparation was performed using SQL:
 - Standardizing timestamp fields into `order_date`
